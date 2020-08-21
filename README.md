@@ -15,5 +15,5 @@ https://zoridam.com/IPStatus/index.js
 ```js
 const IP = require("imperialpluginstatus"); 
 
-IP.checkStatus();
+IP.checkStatus(true || false, amount of time between checks in seconds);
 ```
