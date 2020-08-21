@@ -1,0 +1,31 @@
+{
+  "name": "imperialpluginstatus",
+  "version": "1.1.0",
+  "description": "A Node Package that checks for the status of ImperialPlugins services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ImperialPlugins",
+    "Status",
+    "Unturned",
+    "ImperialPlugins",
+    "status"
+  ],
+  "author": "JonnyC",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonnyfencing1/ImperialPluginsStatus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jonnyfencing1/ImperialPluginsStatus/issues"
+  },
+  "homepage": "https://github.com/Jonnyfencing1/ImperialPluginsStatus#readme"
+}
